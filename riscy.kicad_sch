@@ -5923,7 +5923,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SO:SSOP-20_3.9x8.7mm_P0.635mm"
 			(at 193.04 81.28 0)
 			(effects
 				(font
@@ -6111,7 +6111,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 115.57 61.468 90)
 			(effects
 				(font
@@ -6181,7 +6181,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 105.1052 59.69 0)
 			(effects
 				(font
@@ -6317,7 +6317,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_2010_5025Metric"
 			(at 213.36 82.55 0)
 			(effects
 				(font
@@ -6523,7 +6523,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 99.06 66.548 90)
 			(effects
 				(font
@@ -6778,7 +6778,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_1206_3216Metric"
+		(property "Footprint" "LED_SMD:LED_2010_5025Metric"
 			(at 219.71 71.12 0)
 			(effects
 				(font
@@ -6970,7 +6970,7 @@
 				)
 			)
 		)
-		(property "Value" "0"
+		(property "Value" "1"
 			(at 198.12 39.37 90)
 			(effects
 				(font
@@ -6978,7 +6978,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 198.12 44.958 90)
 			(effects
 				(font
@@ -7116,7 +7116,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
 			(at 86.36 127.635 0)
 			(effects
 				(font
@@ -7499,7 +7499,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
 			(at 85.09 142.875 0)
 			(effects
 				(font
@@ -8617,7 +8617,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
 			(at 313.69 175.26 0)
 			(effects
 				(font
@@ -8886,7 +8886,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 50.8 142.748 90)
 			(effects
 				(font
@@ -8954,7 +8954,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-223-3_TabPin2"
 			(at 347.98 158.75 0)
 			(effects
 				(font
@@ -9159,7 +9159,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_1206_3216Metric"
 			(at 340.995 125.73 0)
 			(effects
 				(font
@@ -9362,7 +9362,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 311.912 167.64 90)
 			(effects
 				(font
@@ -9499,7 +9499,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 91.1352 77.47 0)
 			(effects
 				(font
@@ -9559,7 +9559,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "22k"
 			(at 324.485 121.92 90)
 			(effects
 				(font
@@ -9567,7 +9567,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 324.485 127.508 90)
 			(effects
 				(font
@@ -9637,7 +9637,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 272.7452 60.96 0)
 			(effects
 				(font
@@ -9707,7 +9707,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 291.592 57.15 90)
 			(effects
 				(font
@@ -9767,7 +9767,7 @@
 				)
 			)
 		)
-		(property "Value" "0"
+		(property "Value" "1"
 			(at 203.2 48.26 90)
 			(effects
 				(font
@@ -9775,7 +9775,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 203.2 50.292 90)
 			(effects
 				(font
@@ -9980,7 +9980,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 50.8 127.508 90)
 			(effects
 				(font
@@ -10482,7 +10482,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "22k"
 			(at 208.28 69.85 90)
 			(effects
 				(font
@@ -10490,7 +10490,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 208.28 75.438 90)
 			(effects
 				(font
@@ -10558,7 +10558,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 87.63 53.848 90)
 			(effects
 				(font
@@ -10618,7 +10618,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "22k"
 			(at 201.93 67.31 90)
 			(effects
 				(font
@@ -10626,7 +10626,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 201.93 72.898 90)
 			(effects
 				(font
