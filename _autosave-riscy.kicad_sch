@@ -6385,7 +6385,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm"
 			(at 200.66 73.66 0)
 			(effects
 				(font
@@ -6455,7 +6455,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 294.3352 73.66 0)
 			(effects
 				(font
@@ -7046,7 +7046,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm"
 			(at 194.31 71.12 0)
 			(effects
 				(font
@@ -7324,7 +7324,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_USB:USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal"
 			(at 66.04 60.96 0)
 			(effects
 				(font
@@ -8177,7 +8177,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x15_P2.54mm_Vertical"
 			(at 186.69 142.24 0)
 			(effects
 				(font
@@ -9637,7 +9637,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 272.7452 60.96 0)
 			(effects
 				(font
@@ -9845,7 +9845,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 28.9052 85.09 0)
 			(effects
 				(font
@@ -10048,7 +10048,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x15_P2.54mm_Vertical"
 			(at 148.59 140.97 0)
 			(effects
 				(font
@@ -10290,7 +10290,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 284.1752 60.96 0)
 			(effects
 				(font

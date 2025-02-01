@@ -4,7 +4,10 @@ I am bulding a devboard using esp32-c3 for risc 5 architechture.
 
 ## USB slave to UART
 
-`https://robu.in/product/ft231xs-usb-to-full-handshake-uart-ic/`
+- usb to uart link :-
+  `https://robu.in/product/ft231xs-usb-to-full-handshake-uart-ic/`
+- usb c 3.1 female buy link :-
+  `https://sharvielectronics.com/product/16-pin-c-type-usb-connector-smd-package/`
 
 ### Automatic Bootloader mechanism
 
