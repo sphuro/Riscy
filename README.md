@@ -34,4 +34,4 @@ I am bulding a devboard using esp32-c3 for risc 5 architechture.
 
 ## Schematics
 
-![Schematics](source/riscy.svg)
+![Schematics](https://raw.githubusercontent.com/sphuro/Riscy/refs/heads/main/sources/riscy.svg)
