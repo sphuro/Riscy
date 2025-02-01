@@ -31,3 +31,7 @@ I am bulding a devboard using esp32-c3 for risc 5 architechture.
 
 - link to buy :-
   - `https://robu.in/product/ams1117-3-3v-1a-sot-223-voltage-regulator-ic-pack-of-5-ics/?gad_source=1&gclid=Cj0KCQiAhvK8BhDfARIsABsPy4iSbVYHEwlP9KEBU2B-lCpn-yx6If_Pfp03lKlFopRlRfcGBhBD0BAaAo5wEALw_wcB`
+
+## Schematics
+
+![Schematics](source/riscy.svg)
