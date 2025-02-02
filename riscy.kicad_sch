@@ -5283,7 +5283,7 @@
 		)
 		(uuid "1b66af4f-3a74-4cec-9cbd-47c2a1712ae6")
 	)
-	(text "DTR RTS-->EN IO0\n1 	1 	   1  1\n0   0 	   1  1\n1 	0	   0  1\n0 	1 	   1  0"
+	(text "DTR RTS-->EN IO0\n1 	1 	   1  1\n0    0 	   1  1\n1 	0	   0  1\n0 	1 	   1  0"
 		(exclude_from_sim no)
 		(at 41.656 156.464 0)
 		(effects
