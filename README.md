@@ -67,3 +67,8 @@ I am bulding a devboard using esp32-c3 for risc 5 architechture.
   `https://robu.in/product/rc0805fr-0727rl-yageo-smd-chip-resistor-27-ohm-%C2%B1-1-125-mw-0805-2012-metric-thick-film-general-purpose/`
 - 1 (1206)
   `https://robu.in/product/1-ohm-1-4w-1206-surface-mount-chip-resistor-pack-of-100/?gad_source=1&gclid=CjwKCAiAqfe8BhBwEiwAsne6gYzLEAPAPqUGiqb02MYLoErwIDmVYmgq0LpQvgXpQUw6lDAnweQhTRoCmqYQAvD_BwE`
+
+## tact-switch-tvbp06-6-0x3-5mm
+
+- 4 pin tactile switch :-
+  `https://sharvielectronics.com/product/4-5x4-5x3-8mm-tactile-switch-4pin-spst-round-button-straight-st4538tp/`
