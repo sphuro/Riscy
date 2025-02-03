@@ -71,4 +71,4 @@ I am bulding a devboard using esp32-c3 for risc 5 architechture.
 ## tact-switch-tvbp06-6-0x3-5mm
 
 - 4 pin tactile switch :-
-  `https://sharvielectronics.com/product/push-button-tactile-micro-switch-12x12x7mm-4-pin/`
+  `https://sharvielectronics.com/product/6x6x6mm-4-pin-smd-push-button-switch-black-smd-package/?srsltid=AfmBOoqkUntN9e5Ccbb3nGcXEwSu-7Jxecq2lp09xIixMuHtoX-pbkdE`

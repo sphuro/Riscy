@@ -8814,7 +8814,7 @@
 				)
 			)
 		)
-		(property "Footprint" "sources:SW_VS-1213-67-160GF"
+		(property "Footprint" "sources:SW_1825910-6-4"
 			(at 260.35 119.38 0)
 			(effects
 				(font
@@ -9223,7 +9223,7 @@
 				)
 			)
 		)
-		(property "Footprint" "sources:SW_VS-1213-67-160GF"
+		(property "Footprint" "sources:SW_1825910-6-4"
 			(at 259.08 144.78 0)
 			(effects
 				(font
