@@ -5,8 +5,8 @@
 	(uuid "de2d24e1-940f-49f9-a4cc-0c6b868ad501")
 	(paper "A3")
 	(title_block
+		(title "Risk 5 based development board")
 		(date "7/01/25")
-		(company "sphuro")
 	)
 	(lib_symbols
 		(symbol "Connector:Conn_01x15_Pin"
@@ -5434,7 +5434,7 @@
 		(at 319.278 145.542 0)
 		(effects
 			(font
-				(face "JetBrains Mono SemiBold")
+				(face "JetBrainsMono NF Medium")
 				(size 2.54 2.54)
 				(color 101 200 99 1)
 			)
@@ -5452,6 +5452,18 @@
 			)
 		)
 		(uuid "7ccd3713-8606-45bf-ac06-25fba1ebbc3e")
+	)
+	(text "Sphuro"
+		(exclude_from_sim no)
+		(at 325.374 262.89 0)
+		(effects
+			(font
+				(face "HeavyData Nerd Font")
+				(size 10.16 10.16)
+				(color 59 142 217 1)
+			)
+		)
+		(uuid "afe348fb-3867-42bf-a5b6-6f19732bb25f")
 	)
 	(text "Connector Pins"
 		(exclude_from_sim no)
