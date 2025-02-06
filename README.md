@@ -2,6 +2,11 @@
 
 I am bulding a devboard using esp32-c3 for risc 5 architechture.
 
+## Module
+
+- esp32-c3 02 :-
+  `https://robu.in/product/espressif-esp32-c3-wroom-02-n4-module/`
+
 ## USB slave to UART
 
 - usb to uart link x1:-
