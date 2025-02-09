@@ -5627,11 +5627,11 @@
 	)
 	(text "Sphuro"
 		(exclude_from_sim no)
-		(at 325.374 262.89 0)
+		(at 332.486 263.906 0)
 		(effects
 			(font
-				(face "HeavyData Nerd Font")
-				(size 10.16 10.16)
+				(face "ArcadeClassic")
+				(size 12.7 12.7)
 				(color 59 142 217 1)
 			)
 		)
