@@ -1363,7 +1363,7 @@
 	(footprint "LED_SMD:LED_1206_3216Metric"
 		(layer "F.Cu")
 		(uuid "29bdfaaa-eab4-4efa-a9f1-c958ade186ff")
-		(at 172.6825 59.73)
+		(at 54.4 140)
 		(descr "LED SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D4"
@@ -1598,7 +1598,7 @@
 	(footprint "Package_TO_SOT_SMD:SOT-223-3_TabPin2"
 		(layer "F.Cu")
 		(uuid "371dadfc-3a7c-4879-933b-4fd3b45c67a9")
-		(at 70 132.5)
+		(at 52.65 147.2)
 		(descr "module CMS SOT223 4 pins")
 		(tags "CMS SOT")
 		(property "Reference" "U4"
@@ -2088,7 +2088,7 @@
 	(footprint "Resistor_SMD:R_1206_3216Metric"
 		(layer "F.Cu")
 		(uuid "539eca8a-c43e-4a3d-907e-a32185378b77")
-		(at 76 127)
+		(at 59.4625 131)
 		(descr "Resistor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R1"
@@ -2514,7 +2514,7 @@
 	(footprint "Connector_PinHeader_2.54mm:PinHeader_1x15_P2.54mm_Vertical"
 		(layer "F.Cu")
 		(uuid "720f9e7e-6ab4-49d5-9878-da05aeab9515")
-		(at 92 122.52)
+		(at 92 115)
 		(descr "Through hole straight pin header, 1x15, 2.54mm pitch, single row")
 		(tags "Through hole pin header THT 1x15 2.54mm single row")
 		(property "Reference" "J2"
@@ -3776,7 +3776,7 @@
 	(footprint "Connector_PinHeader_2.54mm:PinHeader_1x15_P2.54mm_Vertical"
 		(layer "F.Cu")
 		(uuid "93f949f3-7f9a-44b4-968f-881f804d3617")
-		(at 63 121.48)
+		(at 43 114.56)
 		(descr "Through hole straight pin header, 1x15, 2.54mm pitch, single row")
 		(tags "Through hole pin header THT 1x15 2.54mm single row")
 		(property "Reference" "J1"
@@ -5082,7 +5082,7 @@
 	(footprint "Package_TO_SOT_SMD:SOT-23"
 		(layer "F.Cu")
 		(uuid "bcb59ab4-f62b-4f26-8d2b-bf86ccec7c0b")
-		(at 69.0625 140)
+		(at 69.525 134.5)
 		(descr "SOT, 3 Pin (JEDEC TO-236 Var AB https://www.jedec.org/document_search?search_api_views_fulltext=TO-236), generated with kicad-footprint-generator ipc_gullwing_generator.py")
 		(tags "SOT TO_SOT_SMD")
 		(property "Reference" "Q1"
@@ -6793,7 +6793,7 @@
 		(descr "SSOP20: plastic shrink small outline package; 24 leads; body width 3.9 mm; lead pitch 0.635; (see http://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT231X.pdf)")
 		(tags "SSOP 0.635")
 		(property "Reference" "U2"
-			(at 0 -5.4 360)
+			(at 0 -5.4 0)
 			(layer "F.SilkS")
 			(uuid "68cf3049-9653-4823-b9f3-dae0bc1d2d3a")
 			(effects
@@ -6804,7 +6804,7 @@
 			)
 		)
 		(property "Value" "FT231XS"
-			(at 0 5.4 360)
+			(at 0 5.4 0)
 			(layer "F.Fab")
 			(uuid "0fee84ba-9a04-4eb5-8d1f-dd05a6b429ef")
 			(effects
@@ -7021,7 +7021,7 @@
 			(uuid "9b9d2058-0a0c-4ab6-b911-022f9529a437")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "dd3987de-646e-43db-bd36-b76bd010a9fe")
 			(effects
@@ -7439,7 +7439,7 @@
 	(footprint "RF_Module:ESP32-C3-WROOM-02"
 		(layer "F.Cu")
 		(uuid "daeda0f9-41c1-4f27-95a6-abadc44517ca")
-		(at 78.25 114)
+		(at 67.04 112.2)
 		(descr "RF Module, ESP32-C3 WROOM-02, Wi-Fi and Bluetooth, BLE, onboard antenna, https://www.espressif.com/sites/default/files/documentation/esp32-c3-wroom-02_datasheet_en.pdf")
 		(tags "ESP32-C3 WROOM-02 espressif")
 		(property "Reference" "U3"
@@ -8342,7 +8342,7 @@
 			)
 			(polygon
 				(pts
-					(xy 64.25 106.9) (xy 92.25 106.9) (xy 92.25 95.9) (xy 64.25 95.9)
+					(xy 53.04 105.1) (xy 81.04 105.1) (xy 81.04 94.1) (xy 53.04 94.1)
 				)
 			)
 		)
@@ -9056,7 +9056,7 @@
 	(footprint "LED_SMD:LED_2010_5025Metric"
 		(layer "F.Cu")
 		(uuid "e53eafef-9c3b-4af2-9838-a98017c90749")
-		(at 160 125)
+		(at 148 129.5)
 		(descr "LED SMD 2010 (5025 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D3"
@@ -9291,7 +9291,7 @@
 	(footprint "Package_TO_SOT_SMD:SOT-23"
 		(layer "F.Cu")
 		(uuid "e8c09b55-e855-4176-a3e8-4d0cff60be50")
-		(at 69.5 145.5)
+		(at 85.5625 142.5)
 		(descr "SOT, 3 Pin (JEDEC TO-236 Var AB https://www.jedec.org/document_search?search_api_views_fulltext=TO-236), generated with kicad-footprint-generator ipc_gullwing_generator.py")
 		(tags "SOT TO_SOT_SMD")
 		(property "Reference" "Q2"
@@ -9555,7 +9555,7 @@
 	(footprint "Resistor_SMD:R_1206_3216Metric"
 		(layer "F.Cu")
 		(uuid "f5d22144-32db-4fb6-95d6-7735bfd6de43")
-		(at 137.4825 73.4)
+		(at 48.4625 140)
 		(descr "Resistor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R12"
