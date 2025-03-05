@@ -5073,7 +5073,7 @@
 	)
 	(wire
 		(pts
-			(xy 205.74 71.12) (xy 215.9 71.12)
+			(xy 205.74 71.12) (xy 223.52 71.12)
 		)
 		(stroke
 			(width 0)
@@ -5363,7 +5363,7 @@
 	)
 	(wire
 		(pts
-			(xy 213.36 73.66) (xy 213.36 78.74)
+			(xy 213.36 73.66) (xy 213.36 86.36)
 		)
 		(stroke
 			(width 0)
@@ -6626,76 +6626,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:LED")
-		(at 213.36 82.55 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "158525c8-fcf1-4418-ba68-bb69a5f59a0a")
-		(property "Reference" "D3"
-			(at 215.9 79.6924 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "LED"
-			(at 215.9 82.2324 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "LED_SMD:LED_2010_5025Metric"
-			(at 213.36 82.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 213.36 82.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Light emitting diode"
-			(at 213.36 82.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "1e4ac38d-12b2-4c15-9dcf-de0d9742cbc9")
-		)
-		(pin "2"
-			(uuid "1bff775b-ab7a-45cd-8a14-19b7001de23c")
-		)
-		(instances
-			(project "riscy"
-				(path "/de2d24e1-940f-49f9-a4cc-0c6b868ad501"
-					(reference "D3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Jumper:SolderJumper_2_Open")
 		(at 200.66 73.66 180)
 		(unit 1)
@@ -7149,74 +7079,6 @@
 			(project "riscy"
 				(path "/de2d24e1-940f-49f9-a4cc-0c6b868ad501"
 					(reference "#PWR017")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:LED")
-		(at 219.71 71.12 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "3a575b82-9a66-4ce9-86a6-5c20e7ac04d3")
-		(property "Reference" "D2"
-			(at 218.1225 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "LED"
-			(at 218.1225 67.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "LED_SMD:LED_2010_5025Metric"
-			(at 219.71 71.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 219.71 71.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Light emitting diode"
-			(at 219.71 71.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "61893109-7888-450d-b379-9eb6eeeab636")
-		)
-		(pin "2"
-			(uuid "bf7fe0d0-d15a-446c-a6e8-628c0dd94074")
-		)
-		(instances
-			(project ""
-				(path "/de2d24e1-940f-49f9-a4cc-0c6b868ad501"
-					(reference "D2")
 					(unit 1)
 				)
 			)
